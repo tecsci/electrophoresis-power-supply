@@ -8,9 +8,9 @@ Documentación original: https://sites.google.com/iorodeo.com/electrophoresis-po
 
 Componentes clave:
 
-* Fuente step-up: Maxim high efficiency MAX1771 step-up DC-DC controller
-* Mosfet
-* Voltage divider
+* Fuente step-up: Maxim high efficiency MAX1771 step-up DC-DC controller (link [ML](https://articulo.mercadolibre.com.ar/MLA-674196971-regulador-step-up-alta-tension-max1771-csa-soic8-itytarg-_JM)).
+* Mosfet.
+* Voltage divider.
 * KiCad design files: https://bitbucket.org/iorodeo/hv_switching_psu
 
 ## Cuba
