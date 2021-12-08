@@ -3,6 +3,7 @@
 Documentación original: https://sites.google.com/iorodeo.com/electrophoresis-power-supply
 
 * Diseño del PCB: https://sites.google.com/iorodeo.com/electrophoresis-power-supply/pcb-design
+  * KiCAD: https://github.com/iorodeo/hv_switching_psu
 * Lista de componentes: https://sites.google.com/iorodeo.com/electrophoresis-power-supply/pcb-components
 
 Componentes clave:
